@@ -3,7 +3,8 @@
 
 🌱 I’m a **Web Development learner** exploring the world of coding and building projects.  
 💻 I love working with **Python, C, JavaScript, HTML, CSS, Tailwind**.  
-🎯 Currently learning and experimenting with **Scarch A02**.  
+🎯 Currently learning and experimenting with **Programming Hero**.  
+
 
 ---
 
@@ -22,24 +23,15 @@
 
 Here are some projects I’ve worked on:
 
-- **Project 1** – [Link](#)  
-- **Project 2** – [Link](#)  
-- **Project 3** – [Link](#)  
-
+- **Project 1** – imrajhossainaraf.github.io/A02/
+ 
 *(Replace with your actual projects and links)*
-
----
-
-## 📊 GitHub Stats
-
-![Imraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
+Instragram :  
 
 ---
 
