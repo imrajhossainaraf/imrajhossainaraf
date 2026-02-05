@@ -4,8 +4,6 @@
 🌱 I’m a **Web Development learner** exploring the world of coding and building projects.  
 💻 I love working with **Python, C, JavaScript, HTML, CSS, Tailwind**.  
 🎯 Currently learning and experimenting with **Programming Hero**.  
-
-
 ---
 
 ## 🚀 Skills & Technologies
@@ -18,21 +16,4 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
-
-## 📂 Projects
-
-Here are some projects I’ve worked on:
-
-- **Project 1** – imrajhossainaraf.github.io/A02/
- 
-*(Replace with your actual projects and links)*
-
----
-
-## 📫 Connect with me
-
-Instragram :  
-
----
-
 ✨ Fun fact: I love learning new coding languages and building cool projects!
