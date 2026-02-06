@@ -1,11 +1,8 @@
 
-# Hi there 👋, I'm Imraj Hossain
+# Hello there 👋, I'm Imraj Hossain
 
-🌱 I’m a **Web Development learner** exploring the world of coding and building projects.  
-💻 I love working with **Python, C, JavaScript, HTML, CSS, Tailwind**.  
-🎯 Currently learning and experimenting with **Programming Hero**.  
+💻I'm Learning Web Development with Programming Hero B13
 ---
-
 ## 🚀 Skills & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
